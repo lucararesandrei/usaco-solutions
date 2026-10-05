@@ -1,4 +1,4 @@
-// USACO 2015 December Silver
+// USACO 2015-2016 December Silver
 // Problem 1 - Switching on the lights
 #include <bits/stdc++.h>
 using namespace std;
